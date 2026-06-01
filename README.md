@@ -1,2 +1,3 @@
 # use-this-client
-use this client on pie smp
+## Eaglercraft: Tuff Client 1.1UT14 or higher
+## But we highly recommend java if you can
